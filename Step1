@@ -1,0 +1,46 @@
+
+
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="google-site-verification" content="1I91uk88xcYZUjGzNTpvQa2CITeLL3l9AzO9BZRau2g" />
+  <title>Mon Site Web</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Bienvenue sur mon site ✨</h1>
+    <p>Ce site est hébergé avec GitHub Pages</p>
+  </header>
+
+  <main>
+    <section id="about">
+      <h2>À propos de moi</h2>
+      <p>nous sommes christ et emmanuel  créateurs de ce site. Nous essayons de coder et de publier nos projets en ligne !</p>
+    </section>
+
+    <section id="contact">
+      <h2>Contact</h2>
+      <p>Tu peux me retrouver ici : <a href="mailto:contact@email.com">contact@email.com</a></p>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 Mon site personnel - Fait avec ❤️</p>
+  </footer>
+</body>
+</html>
+
+🔧 Étapes suivantes :
+
+1. Pousse ce fichier sur ton dépôt GitHub (main ou gh-pages selon ton setup).
+
+
+2. Va sur la Search Console Google, clique sur "Vérifier", et ça devrait marcher ! ✅
+
+
+
+Besoin d’aide pour publier ou configurer le domaine ? Je suis là.
+
